@@ -13,6 +13,7 @@ export default {
       button {
         text-transform: none;
         font-size: 1.2rem;
+        font-family: inherit;
 
         &:hover {
           color: #f6bf20;
