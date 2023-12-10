@@ -12,6 +12,7 @@ export default {
       gap: 20px;
       button {
         text-transform: none;
+        font-size: 1.2rem;
 
         &:hover {
           color: #f6bf20;

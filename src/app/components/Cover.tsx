@@ -6,7 +6,7 @@ export const Cover = () => {
     <div className={classses.cover}>
       <Container maxWidth="xl">
         <div className={"coverWrapper"}>
-          <div className="side left">
+          <div className="text">
             Get the insights you need to improve your business
             <p>
               Use our analytics, reporting, and AI-assisted optimization tools
@@ -14,10 +14,7 @@ export const Cover = () => {
               that reach more customers likely to engage and convert.
             </p>
           </div>
-          <div className="side right">
-            Right Side
-            <div className="backgroundImage"></div>
-          </div>
+          <div className="backgroundImage"></div>
         </div>
       </Container>
     </div>
